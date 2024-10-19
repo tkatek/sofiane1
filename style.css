@@ -243,11 +243,7 @@ font-size: 50px;
 }
 .section p{
 
-    width:  270px;
-    position: absolute;
-    left: 5px;
-    top: 700px;
-    font-size: 20px;
+     padding: 10px;
 }
 .section h1{
     position: absolute;
